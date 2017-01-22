@@ -5,7 +5,7 @@ React + Redux weather app
 Checkout this repo, install dependencies, then start app with the following:
 
 ```
-	git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
+	git clone git@github.com:jaksa-b/reactWeatherApp.git
 	cd reactWeatherApp
 	npm install
 	npm start
